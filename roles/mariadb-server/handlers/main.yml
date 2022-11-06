@@ -1,0 +1,7 @@
+---
+# handlers file for mariadb-server
+- name: start_mariadb_Service
+  ansible.builtin.systemd:
+    name: mariadb
+    state: started
+    enabled: yes

@@ -1,0 +1,5 @@
+---
+# vars file for mariadb-server
+# user_name: root
+# mysql_root_password: "ansible_iti@2022"
+my_cnf_file_url: "https://drive.google.com/uc?export=download&id=1QIeumZzk1_PL6pVf699ff8iurEnuwk7y"
